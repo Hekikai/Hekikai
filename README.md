@@ -8,4 +8,4 @@
 <code>📦 Tech stack: javascript, react</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@your-nikname](https://telegram.me/katanaaa)</code>
-<code>📫 [your-email](mail-to:katanaosu@vk.com)</code>
+<code>📫 [your-email](mailto:katanaosu@vk.com)</code>
