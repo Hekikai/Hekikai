@@ -7,5 +7,5 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: javascript, react</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/katanaaa)</code>
+<code>💬 telegram: [@katanaaa](https://telegram.me/katanaaa)</code>
 <code>📫 [your-email](mailto:katanaosu@vk.com)</code>
