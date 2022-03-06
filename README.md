@@ -1,5 +1,5 @@
 <code>🎓 Student: SUAI / IFPI</code>
-<code>👷 Speciality: Software Developer</code><br>
+<code>👷 Speciality: Student</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
