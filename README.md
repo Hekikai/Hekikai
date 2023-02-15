@@ -5,5 +5,5 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: JavaScript, TypeScript, Vue, GraphQL, HTML/CSS, Nuxt</code>
-<code>💬 telegram: [@katanaaa](https://telegram.me/katanaaa)</code>
+<code>💬 telegram: [@katanaaa](https://telegram.me/katanaaa)</code>  
 <code>📫 [katanaosu@vk.com](mailto:katanaosu@vk.com)</code>
